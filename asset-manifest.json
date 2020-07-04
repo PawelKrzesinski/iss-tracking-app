@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PawelKrzesinski/iss-tracking-app/static/css/main.79c792cc.chunk.css",
+    "main.js": "/PawelKrzesinski/iss-tracking-app/static/js/main.6e60144e.chunk.js",
+    "main.js.map": "/PawelKrzesinski/iss-tracking-app/static/js/main.6e60144e.chunk.js.map",
+    "runtime-main.js": "/PawelKrzesinski/iss-tracking-app/static/js/runtime-main.2f87ce45.js",
+    "runtime-main.js.map": "/PawelKrzesinski/iss-tracking-app/static/js/runtime-main.2f87ce45.js.map",
+    "static/css/2.7c35e809.chunk.css": "/PawelKrzesinski/iss-tracking-app/static/css/2.7c35e809.chunk.css",
+    "static/js/2.a050217e.chunk.js": "/PawelKrzesinski/iss-tracking-app/static/js/2.a050217e.chunk.js",
+    "static/js/2.a050217e.chunk.js.map": "/PawelKrzesinski/iss-tracking-app/static/js/2.a050217e.chunk.js.map",
+    "index.html": "/PawelKrzesinski/iss-tracking-app/index.html",
+    "precache-manifest.90cea1a1d04a8f5f5350ab125064e30e.js": "/PawelKrzesinski/iss-tracking-app/precache-manifest.90cea1a1d04a8f5f5350ab125064e30e.js",
+    "service-worker.js": "/PawelKrzesinski/iss-tracking-app/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/PawelKrzesinski/iss-tracking-app/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.79c792cc.chunk.css.map": "/PawelKrzesinski/iss-tracking-app/static/css/main.79c792cc.chunk.css.map",
+    "static/js/2.a050217e.chunk.js.LICENSE.txt": "/PawelKrzesinski/iss-tracking-app/static/js/2.a050217e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f87ce45.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.a050217e.chunk.js",
+    "static/css/main.79c792cc.chunk.css",
+    "static/js/main.6e60144e.chunk.js"
+  ]
+}
