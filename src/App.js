@@ -25,9 +25,9 @@ class App extends React.Component{
 	};
 
 	getPosition = () =>{
-		axios.get("http://api.open-notify.org/iss-now.json")
+		axios.get("https://api.wheretheiss.at/v1/satellites/25544")
 		.then((response) => {
-			const {longitude, latitude} = response.data.iss_position;
+			const {longitude, latitude} = response.data;
 			this.setState({lng: longitude,
 						   lat: latitude})
 		})	
