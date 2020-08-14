@@ -12,9 +12,26 @@ body {
 }
 .map {
 	height: 500px;
-	width: 50%;
 	border: solid 5px transparent;
 }
 h3, h1{
 	margin: 0;
+}
+
+@media only screen and(min-width: 350px){
+	.map{
+		width: 80%;
+	}
+}
+@media only screen and(min-width: 700px){
+	.map{
+		width: 60%;
+	}
+}
+
+
+@media only screen and(min-width: 1200px){
+	.map{
+		width: 50%;
+	}
 }
