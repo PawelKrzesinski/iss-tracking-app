@@ -11,7 +11,6 @@ body {
 	place-items: center;
 }
 .map {
-	height: 500px;
 	border: solid 5px transparent;
 }
 h3, h1{
@@ -20,11 +19,13 @@ h3, h1{
 
 @media only screen and(min-width: 350px){
 	.map{
+		height: 200px;
 		width: 80%;
 	}
 }
 @media only screen and(min-width: 700px){
 	.map{
+		height: 300px;
 		width: 60%;
 	}
 }
@@ -32,6 +33,7 @@ h3, h1{
 
 @media only screen and(min-width: 1200px){
 	.map{
+		height: 500px;
 		width: 50%;
 	}
 }
